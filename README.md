@@ -15,3 +15,9 @@ Dependencies - Libraries & Frameworks:
     <li>In terminal type -> python manage.py runserver(for windows user)</li>
     <li>Finally Visit the url in browser. The server runs on the default port 8000</li>
 </ol>
+
+
+# Home Page Screen Shot 
+
+
+<img src="ScreenShot/homepage.png">
